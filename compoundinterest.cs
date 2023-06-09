@@ -28,6 +28,8 @@ namespace tarnary
             result = p * Math.Pow((1 + r / n), n * t);
             Console.WriteLine($" the result is {result}");
 
+            Console.WriteLine("end of the program");
+
 
 
 
