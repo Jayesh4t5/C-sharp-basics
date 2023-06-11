@@ -29,6 +29,7 @@ namespace tarnary
             Console.WriteLine($" the result is {result}");
 
             Console.WriteLine("end of the program");
+            Console.WriteLine("show me the op");
 
 
 
